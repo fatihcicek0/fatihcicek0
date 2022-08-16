@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Fatih Çiçek
 - 👀 I’m interested in Economy, Finance, Sofware
-- 🌱 I’m currently learning HTML, CSS, JavaScript, Node.js, C#
+- 🌱 I’m currently learning HTML, CSS, JavaScript,React.js,Angular.js, Node.js, C#
 - 💞️ I’m looking to collaborate on Website
 
 <!---
