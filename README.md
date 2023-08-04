@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Fatih Çiçek
 - 👀 I’m interested in Sofware
-- 🌱 I’m currently learning HTML, CSS, JavaScript,Typescript,React.js, Node.js, C#
+- 🌱 I’m currently learning Next.js,AWS 
 
 <!---
 fatihcicek0/fatihcicek0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
