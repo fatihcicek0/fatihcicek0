@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Fatih Çiçek
 - 👀 I’m interested in Sofware
-- 🌱 I’m currently learning Next.js,AWS 
+- 🌱 I’m currently learning Next.js,AWS,Docker,Three.js  
 
 <!---
 fatihcicek0/fatihcicek0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
