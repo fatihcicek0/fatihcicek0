@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Fatih Çiçek
 - 👀 I’m interested in Web | Mobile Development.
-- 🌱 I’m currently learning Devops
+- 🌱 I’m currently learning System Design
 
 <!---
 fatihcicek0/fatihcicek0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
